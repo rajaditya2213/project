@@ -1,0 +1,62 @@
+header{
+     padding: 10px 20px;
+}
+.header-section{
+     justify-content:center;
+     gap: 50px;
+
+}
+.header-left{
+     max-width: 40vw;
+}
+.header-left h1{
+     margin-top: 0px;
+     font-size: 50px;
+     font-weight:800;
+     color:  #003B79;
+     font-family: sans-serif;
+
+}
+.header-left p{
+     color: black;
+     font-weight: 800;
+     margin-top: 20px;
+     font-family: sans-serif;
+}
+
+.header-left .pra{
+   font-weight: 300;
+   font-family:'Times New Roman', Times, serif;
+}
+.header-left .dep{
+     padding: 2px 40px;
+     height: 34px;
+     margin-top: 30px;
+     margin-left: 30px;
+     background-color: white;
+     color: blue;
+     border: 1px solid black;
+}
+
+
+.started{
+     margin-top: 25px;
+     padding: 10px 30px;
+     background-color: #007FF4;
+}
+.bhu{
+     display: flex;
+     justify-content:space
+}
+.vdo{
+     width: 30px;
+     height: 30px;
+     margin-top: 30px;
+     margin-left: 30px;
+}
+
+.header-right img{
+     width: 350px;
+     margin-top: 20px;
+
+}

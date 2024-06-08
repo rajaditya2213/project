@@ -1,0 +1,26 @@
+
+.foter{
+     width: 1250px;
+     height: 200px;
+     background-color: #ECF4FF;
+     padding-left: 20px;
+     margin-bottom: 10px;
+}
+
+.foter .icons i{
+
+     padding-left:20px;
+     font-size: 20px;
+     margin-top: 20px;
+
+}
+.icons{
+     padding-left: 70px;
+     margin-left: 50px;
+}
+
+.foter p{
+     margin-left: 50px;
+     padding-left: 90px;
+     font-size: 12px;
+}
